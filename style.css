@@ -37,7 +37,7 @@ html {
   transition: 0.5s ease-in-out;
   transition-delay: 0.25s;
   border-radius: 15px; /*untuk membulatkan kotak bg */
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
 }
 
 .container-content {
